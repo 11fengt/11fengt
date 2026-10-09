@@ -1,9 +1,10 @@
 
+<h1 align="center">Hi 👋, I'm Tengfeng Wang</h1>
+
 <p align="center">
-  <h1 align="center">Hi 👋, I'm Tengfeng Wang</h1>
   🎓 Master's student at South China Normal University · 📍 Guangzhou
   <br>
-  💬 菜但是在持续学习路上的一名开发者
+  💬 技术菜但是在持续学习路上的一名开发者
 </p>
 
 <!--
@@ -22,11 +23,12 @@ Here are some ideas to get you started:
 -->
 ## 🤖 技术栈
 
-[![My Skills](https://skillicons.dev/icons?i=vue,js,ts,nodejs,html,css,py,mysql,GIT&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,js,ts,nodejs,html,css,py,mysql,git,npm&theme=dark)](https://skillicons.dev)
 
 ## 👨‍💻 关于我
 
 - 💻 我是一名以前端为主的全栈开发者，目前正在同时学习前端和后端的知识，致力于开发出好的用户界面和后端服务。
 - 🤖 我正在探索 AI agent 应用和智能体（Agent）工作流
-- ⚙️ 我喜欢前端工程化，以及让开发更高效、代码更易维护的构建工具。
-- 🐭 我喜欢用 Python 和 nodejs 开发，正在学习后端系统的各个部分如何协同工作。
+- ⚙️ 我喜欢前端工程化，以及让开发更高效、代码更易维护的构建工具
+- 🐭 我喜欢用 Python 和 nodejs 开发，正在学习后端系统的各个部分如何协同工作
+- 🔭 硕士的研究方向：研究信息隐藏的鲁棒性，主要方向为 ⚡图像隐写 和 图像水印
