@@ -1,7 +1,8 @@
-## Hi, I'm Tengfeng Wang 👋
 
 <p align="center">
+  <h1 align="center">Hi 👋, I'm Tengfeng Wang</h1>
   🎓 Master's student at South China Normal University · 📍 Guangzhou
+  💬 菜但是在持续学习路上的一名开发者
 </p>
 
 <!--
