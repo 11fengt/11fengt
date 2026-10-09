@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tengf</h1>
 
 <p align="center">
-  🎓 Master's student at South China Normal University · 📍 Guangzhou
+  🎓 华南师范大学 人工智能硕士在读 · 📍 广州
   <br>
   💬 技术菜但是在持续学习路上的一名开发者
 </p>
