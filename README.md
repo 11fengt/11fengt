@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tengfeng Wang</h1>
+<h1 align="center">Hi 👋, I'm Tengf</h1>
 
 <p align="center">
   🎓 Master's student at South China Normal University · 📍 Guangzhou
